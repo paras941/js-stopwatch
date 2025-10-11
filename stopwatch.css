@@ -1,0 +1,93 @@
+*{
+    margin: 10;
+    padding: 0;
+    background-color:rgb(50,18,122);
+}
+
+.watch1{
+    color: pink;
+    font-weight: bold;
+    font-size: 58px;
+}
+
+.watch2{
+    color: pink;
+    font-size: 42px;
+}
+
+.stopwatch{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 43px;
+    font-size: 44px;
+}
+
+.actualwatch{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 200px;
+    }
+
+    .sec{
+        margin: 0px;
+        display: flex;
+    justify-content: center;
+    color: white;
+    word-spacing: 220px;
+    font-size: 20px;
+}
+
+.border1{
+    display: inline-block;
+    color: white;
+    margin: 45px;
+    font-size: 48px;
+    font-weight: bold;
+    border: 2px solid pink;
+    border-radius: 26px;
+    background-color: pink;
+    height: 71px;
+    margin-left: 300px ;
+
+}
+
+.border1:hover{
+      
+    display: inline-block;
+    color: white;
+    margin: 45px;
+    font-size: 50px;
+    transition: ease;
+    font-weight: bold;
+    border: 2px solid pink;
+    border-radius: 26px;
+    background-color: pink;
+    height: 71px;
+    margin-left: 300px ;
+
+}
+
+.border2{
+    display:inline-block;
+    position: absolute;
+    background-color: pink;
+    justify-content: center;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 45px ;
+    border: 3px solid pink;
+    border-radius: 19px;
+    margin-left: 168px;
+    height: 62px;
+}
+
+.border2:hover{
+      font-size: 63px;
+}
