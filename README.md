@@ -35,10 +35,4 @@ Click PAUSE to pause it.
 
 Click RESET to reset the timer back to 00:00:00.
 
-📂 Project Structure
-Stopwatch/
-│
-├── index.html       # Main HTML file
-├── stopwatch.css    # Styles
-├── stopwatch.js     # Stopwatch logic
-└── README.md        # Project documentation
+
