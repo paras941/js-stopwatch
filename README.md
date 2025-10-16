@@ -23,7 +23,7 @@ HTML5 – Structure of the stopwatch
 
 CSS3 – Styling, spacing, and animations
 
-JavaScript (Vanilla JS) – Stopwatch functionality
+JavaScript (Vanilla JS) – Stopwatch functionality.
 
 ⚙️ How to Use
 
