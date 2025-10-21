@@ -19,9 +19,9 @@ Stylish and responsive UI with gradient background.
 
 🧰 Technologies Used
 
-HTML5 – Structure of the stopwatch
+HTML5 – Structure of the stopwatch.
 
-CSS3 – Styling, spacing, and animations
+CSS3 – Styling, spacing, and animations.
 
 JavaScript (Vanilla JS) – Stopwatch functionality.
 
